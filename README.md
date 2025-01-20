@@ -1,4 +1,4 @@
----------- Made By Cipta Papua ----------
+---------- Made By Cipta Papua Tech ----------
 
 1. Afin Pakederan ( CEO ) ( CSO )
 2. Delfiero.B.A.Tuanakotta ( SW UI/UX )
